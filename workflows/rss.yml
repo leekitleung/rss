@@ -1,9 +1,9 @@
 on:
   rss:
     url:
-      - RSS 订阅链接 1
-      - RSS 订阅链接 2
-      - RSS 订阅链接 3
+      - https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1
+      - https://api.feeddd.org/feeds/6254d618a4ca6e10e364a7ef
+      - https://www.playpcesor.com/feeds/posts/default?alt=rss
 jobs:
   request:
     name: Make a HTTP Request
